@@ -48,8 +48,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
-   cd youtube-summarizer-plugin
+   git clone https://github.com/adityasoni99/NVGAssistYoutubeSummarizer.git
+   cd NVGAssistYoutubeSummarizer
    ```
 
 2. **Install Dependencies**
