@@ -1,0 +1,40 @@
+{
+  "manifestVersion": 1,
+  "executable": "./youtube_summarizer_plugin.exe",
+  "persistent": true,
+  "functions": [
+    {
+      "name": "summarize_video",
+      "description": "Generates a concise summary of a YouTube video.",
+      "tags": ["youtube", "summarization", "gemini"],
+      "properties": {
+        "video_url": {
+          "type": "string",
+          "description": "The URL of the YouTube video to summarize."
+        }
+      }
+    },
+    {
+      "name": "extract_keypoints",
+      "description": "Extracts key points and timestamps from the YouTube video.",
+      "tags": ["youtube", "timestamps", "keypoints"],
+      "properties": {
+        "video_url": {
+          "type": "string",
+          "description": "The URL of the YouTube video to analyze."
+        }
+      }
+    },
+    {
+      "name": "get_insights",
+      "description": "Provides actionable insights from the YouTube video.",
+      "tags": ["youtube", "insights", "gemini"],
+      "properties": {
+        "video_url": {
+          "type": "string",
+          "description": "The URL of the YouTube video to process."
+        }
+      }
+    }
+  ]
+}

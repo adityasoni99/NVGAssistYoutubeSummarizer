@@ -1,0 +1,4 @@
+youtube-transcript-api>=0.6.2
+    requests==2.31.0
+pywin32>=223
+pyinstaller==6.11.0
