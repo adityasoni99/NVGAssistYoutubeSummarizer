@@ -210,7 +210,7 @@ youtube-summarizer/
 [![Watch the video](https://img.youtube.com/vi/4_O6T6CUsTs/maxresdefault.jpg)](https://www.youtube.com/watch?v=4_O6T6CUsTs)
 
 - [x] **Demo Video**: 30 seconds - 2 minutes showcasing plugin functionality
-- [ ] **Social Media**: Post with #AIonRTXHackathon hashtag
+- [x] **Social Media**: Post with #AIonRTXHackathon hashtag
 
 ### 🏆 Judging Criteria Alignment
 
